@@ -2,6 +2,7 @@
 ## GIT SHALLOW DIVE
 	# Workshop
 	# 1. Clone the git-workshop project to a local folder under C:\eBusiness and clone again to git-workshop-local (this is on the slide)
+		1.2 e.g. make a local clone of the clone: git clone git-workshop git-workshop-local
 	# 2. Create new feature branch from command with your usename in the title and do a checkout e.g. feature/git-workshop-a07644610
 	# 3. Rename the branch e.g. feature/git-workshop-renamed-a07644610
 	# 4. Create a file and commit with relevant commit message (using conventional commits).
