@@ -5,7 +5,7 @@
 		1.2 e.g. make a local clone of the clone: git clone git-workshop git-workshop-local
 	# 2. Create new feature branch from command with your usename in the title and do a checkout e.g. feature/git-workshop-a07644610
 	# 3. Rename the branch e.g. feature/git-workshop-renamed-a07644610
-	# 4. Create a file and commit with relevant commit message (using conventional commits).
+	# 4. Create a file, add it and commit with relevant commit message (using conventional commits).
 	# 5. Push branch
 	# 6. Change file and push the branch (with rewriting history, so only one commit is left)
 	# 7. Checkout a new feature branch (e.g. feature/git-workshop-part2-a07644610) and compare with previous branch
